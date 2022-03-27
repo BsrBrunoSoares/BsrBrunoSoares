@@ -1,9 +1,7 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png">
 
 <h1 align="center">Hello World, Welcome To My Profile 🖖🏽</h1>
-<p> Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, tenho a certeza de que irei somar junto a empresa.  
-Possuo também experiência em Python, Django, Restfull, MySql e Sqlite. 
-Desenvolvendo diversos trabalhos como freelancer nos tempos livres. Estou me dedicando aos estudos da língua inglesa, DataScence & Marchine Learning, pois sei que esse conhecimento é importante para meu desenvolvimento profissional. 
+<p> Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, tenho a certeza de que irei somar junto a empresa. 
 
 </p>
 
